@@ -2,24 +2,37 @@
 
 ## Description
 
-You are a data scientist working for a NYC-based international bank called Caishen. The company announced in an all-hands meeting that the goal for the next 3 years will be to identify fraudulent activity within their customer-facing bank accounts. While your cybersecurity team has provided you with a dataset of historic fraudulent activity, the responsibility of designing a minimal-viable-product (MVP) has fallen on your desk.
+You are a data scientist working for a NYC-based international bank called
+Caishen. The company announced in an all-hands meeting that the goal for the
+next 3 years will be to identify fraudulent activity within their
+customer-facing bank accounts. While your cybersecurity team has provided you
+with a dataset of historic fraudulent activity, the responsibility of designing
+a minimal-viable-product (MVP) has fallen on your desk.
 
-For this project you will be creating an ensemble classifier (random forest or boosted model) that will assess if fraudulent activity has occurred for a transaction. [Download the dataset from the following link][dataset].
+For this project you will be creating an ensemble classifier (random forest or
+boosted model) that will assess if fraudulent activity has occurred for a
+transaction. [Download the dataset from the following link][dataset].
 
-Note: Please do not push this dataset to GitHub. It is 481 MB and GitHub blocks files larger than 100 MB Links to an external site.. Read more about "gitignoring" files on GitHub in [the following article][gitignore].
+Note: Please do not push this dataset to GitHub. It is 481 MB and GitHub blocks
+files larger than 100 MB Links to an external site.. Read more about
+"gitignoring" files on GitHub in [the following article][gitignore].
 
-Your project should be pushed to GitHub and should include the following pipeline steps (at minimum).
+Your project should be pushed to GitHub and should include the following
+pipeline steps (at minimum).
 
 1. Initial EDA
 2. Data cleaning, wrangling & pre-processing
 3. Model creation, hyperparameter search, and model evaluation
 4. Generate report
 
-For further details, download and follow along with the instructions in the following file Links to an external site..
+For further details, download and follow along with the instructions in the
+following file Links to an external site..
 
-Completion of one project is sufficient for a full grade. Utilize documentation, your peers, readings, and classroom notes to complete this project.
+Completion of one project is sufficient for a full grade. Utilize documentation,
+your peers, readings, and classroom notes to complete this project.
 
-This will be due 04/19. Submit a link to your GitHub repository with the completed report for full credit.
+This will be due 04/19. Submit a link to your GitHub repository with the
+completed report for full credit.
 
 ## Rubric
 
