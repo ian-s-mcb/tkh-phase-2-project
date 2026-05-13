@@ -1,6 +1,7 @@
-# tkh-phase-2-project - Financial Fraud Detection
+# tkh-project-2-ensemble-methods - Financial Fraud Detection
 
-Use ensemble ML methods to predict fraud transactions in an large, unbalanced dataset of 471 MiB.
+Use ensemble ML methods to predict fraud transactions in an large, unbalanced
+dataset of 471 MiB.
 
 Table of Contents
 1. [Assignment description][assign-description]
